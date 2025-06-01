@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Справка</title>
+    <style>
+        /* Скрываем подменю по умолчанию */
+        .submenu {
+            display: none;
+            margin-left: 20px;
+        }
+
+        .menu-item {
+            cursor: pointer;
+        }
+
+        .menu-description {
+            margin-top: 10px;
+            font-weight: bold;
+            display: none;
+        }
+
+        .toggle-button {
+            cursor: pointer;
+            font-size: 18px;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Справка по текстовому редактору</h1>
+
+    <h2>Меню:</h2>
+    <ul>
+        <li class="menu-item" onclick="toggleSubMenu('functionsMenu')">Основные функции</li>
+        <ul id="functionsMenu" class="submenu">
+            <li class="menu-item">
+                Создать
+                <span class="toggle-button" onclick="toggleDescription('create', this)">+</span>
+                <p id="description-create" class="menu-description">Создать — Создает новый файл.</p>
+            </li>
+            <li class="menu-item">
+                Открыть
+                <span class="toggle-button" onclick="toggleDescription('open', this)">+</span>
+                <p id="description-open" class="menu-description">Открыть — Открывает существующий файл.</p>
+            </li>
+            <li class="menu-item">
+                Сохранить
+                <span class="toggle-button" onclick="toggleDescription('save', this)">+</span>
+                <p id="description-save" class="menu-description">Сохранить — Сохраняет текущий файл.</p>
+            </li>
+            <li class="menu-item">
+                Сохранить как
+                <span class="toggle-button" onclick="toggleDescription('saveAs', this)">+</span>
+                <p id="description-saveAs" class="menu-description">Сохранить как — Сохраняет текущий файл под новым именем.</p>
+            </li>
+            <li class="menu-item">
+                Отменить
+                <span class="toggle-button" onclick="toggleDescription('undo', this)">+</span>
+                <p id="description-undo" class="menu-description">Отменить — Удаляет последнее введенное слово.</p>
+            </li>
+            <li class="menu-item">
+                Повторить
+                <span class="toggle-button" onclick="toggleDescription('redo', this)">+</span>
+                <p id="description-redo" class="menu-description">Повторить — Возвращает последнее удаленное слово.</p>
+            </li>
+            <li class="menu-item">
+                Вырезать
+                <span class="toggle-button" onclick="toggleDescription('cut', this)">+</span>
+                <p id="description-cut" class="menu-description">Вырезать — Вырезает выделенный текст.</p>
+            </li>
+            <li class="menu-item">
+                Копировать
+                <span class="toggle-button" onclick="toggleDescription('copy', this)">+</span>
+                <p id="description-copy" class="menu-description">Копировать — Копирует выделенный текст.</p>
+            </li>
+            <li class="menu-item">
+                Вставить
+                <span class="toggle-button" onclick="toggleDescription('paste', this)">+</span>
+                <p id="description-paste" class="menu-description">Вставить — Вставляет текст из буфера обмена.</p>
+            </li>
+            <li class="menu-item">
+                Удалить
+                <span class="toggle-button" onclick="toggleDescription('delete', this)">+</span>
+                <p id="description-delete" class="menu-description">Удалить — Удаляет выделенный текст.</p>
+            </li>
+            <li class="menu-item">
+                Выделить все
+                <span class="toggle-button" onclick="toggleDescription('selectAll', this)">+</span>
+                <p id="description-selectAll" class="menu-description">Выделить все — Выделяет весь текст в редакторе.</p>
+            </li>
+        </ul>
+    </ul>
+
+    <script>
+        function toggleSubMenu(menuId) {
+            var submenu = document.getElementById(menuId);
+            // Переключаем видимость подменю
+            if (submenu.style.display === 'block') {
+                submenu.style.display = 'none';
+            } else {
+                submenu.style.display = 'block';
+            }
+        }
+
+        function toggleDescription(functionName, button) {
+            var description = document.getElementById('description-' + functionName);
+            var isVisible = description.style.display === 'block';
+
+            // Скрываем или показываем описание в зависимости от текущего состояния
+            if (isVisible) {
+                description.style.display = 'none';
+                button.innerText = '+'; // Меняем на "+"
+            } else {
+                description.style.display = 'block';
+                button.innerText = '-'; // Меняем на "-"
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Справка</title>
+</head>
+<body>
+    <h1>Справка по текстовому редактору</h1>
+    <h2>Основные функции:</h2>
+    <ul>
+        <li><strong>Создать:</strong> Создает новый файл.</li>
+        <li><strong>Открыть:</strong> Открывает существующий файл.</li>
+        <li><strong>Сохранить:</strong> Сохраняет текущий файл.</li>
+        <li><strong>Сохранить как:</strong> Сохраняет текущий файл под новым именем.</li>
+        <li><strong>Отменить:</strong> Удаляет последнее введенное слово.</li>
+        <li><strong>Повторить:</strong> Возвращает последнее удаленное слово.</li>
+        <li><strong>Вырезать:</strong> Вырезает выделенный текст.</li>
+        <li><strong>Копировать:</strong> Копирует выделенный текст.</li>
+        <li><strong>Вставить:</strong> Вставляет текст из буфера обмена.</li>
+        <li><strong>Удалить:</strong> Удаляет выделенный текст.</li>
+        <li><strong>Выделить все:</strong> Выделяет весь текст в редакторе.</li>
+    </ul>
+</body>
+</html>

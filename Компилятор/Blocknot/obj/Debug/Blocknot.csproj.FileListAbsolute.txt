@@ -1,0 +1,80 @@
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\Никита\source\repos\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\Никита\source\repos\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\Никита\source\repos\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\Максим\Desktop\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\Максим\Desktop\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\Максим\Desktop\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\Максим\Desktop\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+F:\Компилятор\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+F:\Компилятор\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+F:\Компилятор\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+F:\Компилятор\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\teryo\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\ЛАБА 2\Blocknot\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\НЯМ НЯМ\Компиляторы\Компилятор\Blocknot\obj\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\bin\Debug\Blocknot.exe.config
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\bin\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\bin\Debug\Blocknot.pdb
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.AssemblyReference.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.Form1.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.Properties.Resources.resources
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.GenerateResource.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.csproj.CoreCompileInputs.cache
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.exe
+C:\Users\xxxma\OneDrive\Рабочий стол\Компилятор\Blocknot\obj\Debug\Blocknot.pdb
